@@ -1,0 +1,24 @@
+vimplugin for java, so can work everywhere.
+
+pre-requires:
+
+# install jdk-6u20-linux-x64-rpm.bin
+# extract apache-ant-1.8.1-bin.tar.gz to /usr/local/apache-ant-1.8.1-bin
+# vim 7.0 or above.
+
+this projects includes these plugin:
+# javacomplete0.77.1.2
+# NERD_tree
+# taglist_45
+
+clone from git@github.com:iriya/vimplugin-for-java.git
+and copy .vim to your $HOME/.vim
+copy .bash_profile to $HOME/.bash_profile
+copy .vimrc to $HOME/.vimrc
+
+that's ok, enjoy it.
+
+hotkeys when using vim:
+# F3 to open NERDTree
+# F8 to create ctags
+# F12 to run ant
