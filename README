@@ -11,7 +11,7 @@ this projects includes these plugin:
 # NERD_tree
 # taglist_45
 
-clone from git@github.com:iriya/vimplugin-for-java.git
+clone from git://github.com/iriya/vimplugin-for-java.git
 and copy .vim to your $HOME/.vim
 copy .bash_profile to $HOME/.bash_profile
 copy .vimrc to $HOME/.vimrc
